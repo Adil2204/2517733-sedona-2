@@ -2,6 +2,7 @@
 
 - Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2517733).
 - Наставник: [Иван Жарков] (https://htmlacademy.ru/profile/id191422)
+- Сайт: [Мой проект седона] (https://adil2204.github.io/2517733-sedona-2/)
 
 ---
 
